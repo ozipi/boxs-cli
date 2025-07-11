@@ -5,7 +5,7 @@ CLI tool for recording and uploading pentesting operations to the Boxs platform.
 ## Installation
 
 ```bash
-npm install -g @boxs/cli
+npm install -g @b0xs/cli
 ```
 
 ## Quick Start

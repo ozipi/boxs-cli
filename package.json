@@ -1,5 +1,5 @@
 {
-  "name": "@boxs/cli",
+  "name": "@b0xs/cli",
   "version": "0.1.0",
   "description": "CLI tool for recording and uploading pentesting operations to the Boxs platform",
   "main": "dist/index.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ozipi/boxs-cli"
+    "url": "git+https://github.com/ozipi/boxs-cli.git"
   },
   "keywords": [
     "pentesting",
