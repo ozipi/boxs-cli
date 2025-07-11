@@ -1,6 +1,6 @@
 {
   "name": "@b0xs/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI tool for recording and uploading pentesting operations to the Boxs platform",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

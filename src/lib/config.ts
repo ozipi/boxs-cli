@@ -6,7 +6,7 @@ import type { BoxsConfig } from '../types';
 const CONFIG_FILE = path.join(os.homedir(), '.boxs-config.json');
 
 const DEFAULT_CONFIG: BoxsConfig = {
-  apiUrl: 'https://boxs.dev', // Default to production URL
+  apiUrl: 'https://boxs.sh', // Default to production URL
 };
 
 export class ConfigManager {

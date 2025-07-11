@@ -42,7 +42,7 @@ program.addHelpText('before', chalk.cyan(`
 program
   .command('login')
   .description('Login to Boxs platform')
-  .option('-u, --url <url>', 'API URL (default: https://boxs.dev)')
+  .option('-u, --url <url>', 'API URL (default: https://boxs.sh)')
   .action(loginCommand);
 
 program
